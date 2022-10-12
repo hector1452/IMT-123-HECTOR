@@ -1,0 +1,18 @@
+set_property PACKAGE_PIN M15 [get_ports A]
+set_property PACKAGE_PIN H17 [get_ports B]
+set_property PACKAGE_PIN H18 [get_ports A1]
+set_property PACKAGE_PIN H19 [get_ports B1]
+set_property PACKAGE_PIN F21 [get_ports Cin]
+set_property PACKAGE_PIN U14 [get_ports S2]
+set_property PACKAGE_PIN U19 [get_ports S1]
+set_property PACKAGE_PIN W22 [get_ports S]
+
+
+set_property IOSTANDARD LVCMOS33 [get_ports A]
+set_property IOSTANDARD LVCMOS33 [get_ports B]
+set_property IOSTANDARD LVCMOS33 [get_ports A1]
+set_property IOSTANDARD LVCMOS33 [get_ports B1]
+set_property IOSTANDARD LVCMOS33 [get_ports Cin]
+set_property IOSTANDARD LVCMOS33 [get_ports S2]
+set_property IOSTANDARD LVCMOS33 [get_ports S1]
+set_property IOSTANDARD LVCMOS33 [get_ports S]
