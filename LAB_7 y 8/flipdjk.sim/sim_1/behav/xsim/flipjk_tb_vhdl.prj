@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../flipdjk.srcs/sources_1/new/AND_GATE_2to1.vhd" \
+"../../../../flipdjk.srcs/sources_1/new/OR_GATE_2to1.vhd" \
+"../../../../flipdjk.srcs/sources_1/new/flipd.vhd" \
+"../../../../flipdjk.srcs/sources_1/new/flipjk.vhd" \
+"../../../../../../../../../Downloads/Lab_13/Lab_13.srcs/sources_1/new/not_gate.vhd" \
+"../../../../flipdjk.srcs/sim_1/new/flipjk.vhd" \
+
+# Do not sort compile order
+nosort
